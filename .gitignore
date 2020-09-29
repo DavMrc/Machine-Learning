@@ -1,5 +1,8 @@
 version https://git-lfs.github.com/spec/v1
 oid sha256:65a50ce666fbd68b2d2ffd9ec390ed7c7b8ae807c8da22ee1a0dc843d318b7b0
 size 19
+
+# Folders
 TUTORIALS/
 .vscode/
+.ipynb_checkpoints/
